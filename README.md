@@ -32,8 +32,9 @@ pip install -r requirements.txt
 ```
 
 ## Dashboard
+The dashboard is deployed at https://mdq-dashboard.streamlit.app/.
 
-Generate `dashboard/dashboard_data.csv` locally, then run:
+To run it locally instead, generate `dashboard/dashboard_data.csv` locally, then run:
 
 ```bash
 streamlit run dashboard/main.py
